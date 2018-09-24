@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">KotlinFbMessenger</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="register">Register</string>
 </resources>
